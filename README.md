@@ -8,7 +8,9 @@ Previously, as a restaurant owner and real estate sales leader, I gained hands-o
 
 In my free time, I’m constantly exploring new data tools and building projects to sharpen my skills. Whether collaborating with a team or working independently, I’m driven by the challenge of turning raw data into meaningful insights.
 
-My Resume in [pdf](https://github.com/jboonphitak/portfolio/blob/721debf5282c1377b79b70db97299c85ad7593ef/jboonphitak%20-%202025.pdf)
+My Resume in [pdf](https://github.com/jboonphitak/portfolio/blob/1f865b2b1b405976486f4899207dc2d03716fa4c/jboonphitak%20-%202025.pdf)
+
+
 
 This repository showcases my projects, tracks my learning progress, and highlights the intersection of sales, operations, and data analytics.
 
