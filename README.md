@@ -15,7 +15,7 @@ My Resume in [pdf](https://github.com/jboonphitak/portfolio/blob/1f865b2b1b40597
 This repository showcases my projects, tracks my learning progress, and highlights the intersection of sales, operations, and data analytics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/jboonphitak/portfolio/blob/c3a013f649e2b83d45fc1195f592225d3a412238/README.md)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
